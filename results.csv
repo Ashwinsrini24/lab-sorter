@@ -1,0 +1,23 @@
+id,sent,lab,date,slot,students,status,reason
+Q01,2026-10-08,LAB1,2026-10-15,AN,55,available,Slot available and tentatively held
+Q02,2026-10-08,LAB3,2026-10-16,AN,35,conflict,Slot already booked in confirmed bookings (2026-10-16 AN LAB3)
+Q03,2026-10-08,LAB2,2026-10-19,FN,45,available,Slot available and tentatively held
+Q04,2026-10-08,,,,,needs_more_info,"Missing required fields: lab, date, slot, students"
+Q05,2026-10-09,LAB5,2026-10-18,FN,80,lab_closed,Lab closed on Sundays (2026-10-18 is a Sunday)
+Q06,2026-10-09,LAB3,2026-10-21,FN,48,over_capacity,Requested 48 students exceeds LAB3 capacity of 40
+Q07,2026-10-09,LAB1,2026-10-15,AN,30,conflict,Slot already taken by an earlier request in this run (2026-10-15 AN LAB1)
+Q08,2026-10-10,LAB4,2026-10-22,FN,28,available,Slot available and tentatively held
+Q09,2026-10-10,,2026-10-23,AN,40,needs_more_info,Missing required fields: lab
+Q10,2026-10-10,LAB1,2026-10-20,FN,50,conflict,Slot already booked in confirmed bookings (2026-10-20 FN LAB1)
+Q11,2026-10-11,LAB3,2026-10-26,FN,30,available,Slot available and tentatively held
+Q12,2026-10-11,LAB5,2026-10-25,FN,100,lab_closed,Lab closed on Sundays (2026-10-25 is a Sunday)
+Q13,2026-10-11,LAB4,2026-10-27,AN,,needs_more_info,Missing required fields: students
+Q14,2026-10-12,LAB1,2026-10-28,AN,50,available,Slot available and tentatively held
+Q15,2026-10-12,LAB5,2026-10-29,FN,140,over_capacity,Requested 140 students exceeds LAB5 capacity of 120
+Q16,2026-10-12,LAB2,2026-10-30,FN,52,available,Slot available and tentatively held
+Q17,2026-10-13,LAB3,,AN,25,needs_more_info,Missing required fields: date
+Q18,2026-10-13,LAB1,2026-10-28,AN,40,conflict,Slot already taken by an earlier request in this run (2026-10-28 AN LAB1)
+Q19,2026-10-14,LAB4,2026-10-31,FN,30,available,Slot available and tentatively held
+Q20,2026-10-14,LAB5,2026-11-02,FN,90,available,Slot available and tentatively held
+Q21,2026-10-15,LAB3,2026-11-03,AN,38,available,Slot available and tentatively held
+Q22,2026-10-15,LAB2,2026-11-04,AN,60,available,Slot available and tentatively held

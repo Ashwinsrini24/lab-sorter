@@ -1,0 +1,13 @@
+id,sent,status,reason,request
+Q02,2026-10-08,conflict,Slot already booked in confirmed bookings (2026-10-16 AN LAB3),Can I book the AI Lab on 16 Oct afternoon for 35 students for a model training demo
+Q04,2026-10-08,needs_more_info,"Missing required fields: lab, date, slot, students",Need a lab tomorrow for project review
+Q05,2026-10-09,lab_closed,Lab closed on Sundays (2026-10-18 is a Sunday),Book Seminar Hall on 18 October morning for 80 students for coding club hackathon
+Q06,2026-10-09,over_capacity,Requested 48 students exceeds LAB3 capacity of 40,Book LAB3 on 21 October morning for 48 students for Machine Learning lab
+Q07,2026-10-09,conflict,Slot already taken by an earlier request in this run (2026-10-15 AN LAB1),Book LAB1 on 15 Oct AN for 30 students for MA102 tutorial
+Q09,2026-10-10,needs_more_info,Missing required fields: lab,Kindly reserve Python Lab on 23 October afternoon for 40 students
+Q10,2026-10-10,conflict,Slot already booked in confirmed bookings (2026-10-20 FN LAB1),Requesting LAB1 on 20 October FN for 50 students for Data Structures lab
+Q12,2026-10-11,lab_closed,Lab closed on Sundays (2026-10-25 is a Sunday),Need Seminar Hall on 25 October FN for 100 students for orientation session
+Q13,2026-10-11,needs_more_info,Missing required fields: students,Want LAB4 on 27 October afternoon for some students to test network routing
+Q15,2026-10-12,over_capacity,Requested 140 students exceeds LAB5 capacity of 120,Can we get Seminar Hall on 29 October morning for 140 students for symposium keynote
+Q17,2026-10-13,needs_more_info,Missing required fields: date,Need AI Lab next Friday afternoon for 25 students
+Q18,2026-10-13,conflict,Slot already taken by an earlier request in this run (2026-10-28 AN LAB1),Please book LAB1 on 28 October AN for 40 students for competitive programming

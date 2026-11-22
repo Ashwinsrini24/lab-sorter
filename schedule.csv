@@ -1,0 +1,11 @@
+id,date,slot,lab,students,summary
+Q01,2026-10-15,AN,LAB1,55,Need Python Lab 1 on 15 October afternoon for 55 students for
+Q03,2026-10-19,FN,LAB2,45,Need Python Lab 2 on 19 October morning for 45 students for
+Q08,2026-10-22,FN,LAB4,28,Please reserve IoT Lab on 22 October 10:00 AM to 12:00 PM
+Q11,2026-10-26,FN,LAB3,30,Requesting AI Lab on 26 October from 9:30 to 12:00 for 30
+Q14,2026-10-28,AN,LAB1,50,Need Python Lab 1 on 28 October 2:00 PM for 50 students
+Q16,2026-10-30,FN,LAB2,52,Book LAB2 on 30 October FN for 52 students for database query
+Q19,2026-10-31,FN,LAB4,30,Book IoT and Networks Lab on 31 October morning for 30 students
+Q20,2026-11-02,FN,LAB5,90,Reserve Seminar Hall on 02 November FN for 90 students for alumni
+Q21,2026-11-03,AN,LAB3,38,Need AI Lab on 03 November AN for 38 students for deep
+Q22,2026-11-04,AN,LAB2,60,Book LAB2 on 04 November afternoon for 60 students for open source

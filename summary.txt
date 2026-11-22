@@ -1,0 +1,26 @@
+=============================================
+LAB BOOKING REQUEST SORTER - SUMMARY REPORT
+=============================================
+
+Total Requests Processed: 22
+Successfully Scheduled:   10
+Flagged Issues:           12
+
+------------------------------
+REQUEST COUNTS BY STATUS
+------------------------------
+available          : 10
+needs_more_info    : 4
+lab_closed         : 2
+over_capacity      : 2
+conflict           : 4
+
+------------------------------
+REQUEST COUNTS BY LAB
+------------------------------
+LAB1 (Python Lab 1) : 5
+LAB2 (Python Lab 2) : 3
+LAB3 (AI Lab) : 5
+LAB4 (IoT and Networks Lab) : 3
+LAB5 (Seminar Hall) : 4
+=============================================

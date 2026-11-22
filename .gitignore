@@ -1,0 +1,13 @@
+# Environment files and API keys
+.env
+*.env
+__pycache__/
+*.pyc
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Local OS metadata
+.DS_Store
+Thumbs.db
